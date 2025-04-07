@@ -39,3 +39,4 @@ Este é um aplicativo Android simples com três telas (Activities), onde o usuá
 1. Clone o projeto:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+  Feito por Gabriel Xavier Viana
